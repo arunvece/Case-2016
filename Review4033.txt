@@ -1,0 +1,45 @@
+Reviewer 5 of CASE, ISAM 2016 submission 8
+
+Comments to the author
+======================
+
+This paper presents a technique to collect a swarm of
+particle in a grid environment with a common input discrete
+signal. The authors consider a swarm of particles
+initialized in a grid world in which each position is
+either free- space or obstacle. The proposed swarm’s
+collecting approach is based on optimal and greedy
+algorithms. This paper provides algorithms that collect a
+swarm of particle to one position and compares these
+algorithms on the basis of efficiency and implementation
+time.
+
+The paper is well interesting, despite some 
+recommendations from the reviewer.
+
+Introduction section is a bit confusing and should be
+improved. It is lacking of a true presentation of the state
+of the art, and the motivations and contributions of the
+paper should be emphasized.
+Probably, the section II could be merged with the
+introduction section
+Similarly, Section III could be merged within the section
+IV.
+In Sect. IV.A: O(4^{shortest path length}) could be
+corrected as “O(4^{s}), with s the shortest path length “
+
+In Sect. IV.D, : the reviewer does not understand the
+“basic idea” described by Fig.6 
+
+Sect. V: in the previous sections of the manuscript, the
+authors make effort to distinguish small to large particle.
+It will be convenient to provide some (at least
+basic/preliminary) results for large particles to exhibit
+their differences.
+
+Comments on the Video
+=====================
+
+The submitted video describe suitably the result of the
+proposed method for collecting a swarm in a grid
+environment.

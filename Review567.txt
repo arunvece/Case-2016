@@ -1,0 +1,16 @@
+Reviewer 4 of CASE, ISAM 2016 submission 8
+
+Comments to the author
+======================
+
+This paper investigates efficient methods to collect
+particle swarm robots to one position. It guarantees that
+the optimal and greedy algorithms collect particles for a
+bounded world. The authors provide good theoretical
+backgrounds to the problem, but they should give more
+explanations on the simulation results.
+
+Comments on the Video
+=====================
+
+The video clearly shows the motivation of the research.

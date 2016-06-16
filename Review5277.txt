@@ -1,0 +1,17 @@
+Reviewer 9 of CASE, ISAM 2016 submission 8
+
+Comments to the author
+======================
+
+This paper presents an efficient approach to collect
+particles. This work seems sound and good results of the
+method are reported. However, in the proposed approach, the
+particles just move in 4 directions (right, up, left, and
+down). Could the particles move in 8 directions (right,
+right up, up, left up, left, left down, down, and right
+down)?
+
+Comments on the Video
+=====================
+
+The quality of the video is good.
